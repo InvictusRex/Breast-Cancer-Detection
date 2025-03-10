@@ -10,10 +10,10 @@ This project serves as a **comparative study** between the **supervised CNN appr
 ## Dataset
 
 The **BreaKHis v1 dataset** is used, which contains histopathological images of breast cancer tissue. The dataset is structured into two classes:
-(Link to Dataset: 
+
 - **Benign** (non-cancerous)
 - **Malignant** (cancerous)
-- [BreaKHis Dataset](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/))
+(Link to Dataset: [BreaKHis Dataset](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/))
 
 ## Approach
 

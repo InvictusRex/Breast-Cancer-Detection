@@ -13,7 +13,8 @@ The **BreaKHis v1 dataset** is used, which contains histopathological images of 
 
 - **Benign** (non-cancerous)
 - **Malignant** (cancerous)
-  (Link to Dataset: [BreaKHis Dataset](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/))
+
+(Link to Dataset: [BreaKHis Dataset](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/))
 
 ## Approach
 
